@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Little_Flying_Dragon.unity
+  isLoaded: 1
+  isActive: 1
